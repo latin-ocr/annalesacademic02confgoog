@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademic02confgoog_0515.png"; bbox 0 0 4766 6034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1256 1839 2748 2023">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1256 1839 2748 2071">
+     <span class='ocr_line' id='line_1_1' title="bbox 1256 1839 2748 2023; baseline -0.001 -33"><span class='ocrx_word' id='word_1_1' title='bbox 1256 1867 1261 1873; x_wconf 92' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 1498 1839 2748 2023; x_wconf 79' lang='lat' dir='ltr'><strong>REGLEMENT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 391 2856 3886 3036">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 391 2752 3886 3036">
+     <span class='ocr_line' id='line_1_2' title="bbox 391 2856 3886 3036; baseline 0.005 -40"><span class='ocrx_word' id='word_1_3' title='bbox 391 2890 415 2903; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 776 2856 1977 3005; x_wconf 80' lang='lat' dir='ltr'><strong>ATHENAEUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2088 2860 2299 3003; x_wconf 80' lang='lat' dir='ltr'><strong>TE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2425 2857 3503 3036; x_wconf 81' lang='lat' dir='ltr'><strong>DEVENTER‚</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3861 2946 3886 2957; x_wconf 92' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1700 3406 2957 3600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1700 3406 2957 3600">
+     <span class='ocr_line' id='line_1_3' title="bbox 1742 3406 2957 3479; baseline 0.002 -9"><span class='ocrx_word' id='word_1_8' title='bbox 1742 3406 2369 3479; x_wconf 78' lang='lat' dir='ltr'><strong>GEMEENTERAAD</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2411 3409 2957 3475; x_wconf 85' lang='lat' dir='ltr'>VASTGESTELD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1700 3531 2597 3600; baseline 0.004 -5"><span class='ocrx_word' id='word_1_10' title='bbox 1700 3532 1804 3595; x_wconf 89' lang='lat' dir='ltr'><strong>EN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1846 3537 1882 3598; x_wconf 75' lang='lat'>5</span> <span class='ocrx_word' id='word_1_12' title='bbox 1926 3531 2381 3599; x_wconf 80' lang='lat' dir='ltr'><strong>SEPTEMBER</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2425 3539 2597 3600; x_wconf 69' lang='lat'><strong>1854.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
